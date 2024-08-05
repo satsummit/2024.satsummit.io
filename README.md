@@ -1,5 +1,10 @@
+<p align="center">
+  <a href="https://satsummit.io">
+    <img alt="Satsummit satellite icon" src="https://satsummit.io/meta/icon-192.png" width="60" />
+  </a>
+</p>
 <h1 align="center">
   Welcome
 </h1>
 
-Website for #SatSummit 2024, a one day of presentations and discussions about satellite imagery and data processing capabilities that brings together the satellite industry and the global development leaders.
+The SatSummit 2024 refers to the Washington D.C. edition and was migrated to the new repository. This repository only contains the needed redirects.
